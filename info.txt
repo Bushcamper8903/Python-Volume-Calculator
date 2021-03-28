@@ -1,0 +1,7 @@
+Calculates volume of a 3D shape. Very basic code, easy to understand for beginners.
+
+GitHub Repo:
+https://github.com/Bushcamper8903/Python-Volume-Calculator
+
+Thanks,
+Bushcamper8903
