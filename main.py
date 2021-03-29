@@ -7,7 +7,7 @@ class calculation:
 
     #Unit options
     units = ['mm', 'cm', 'm']
-    print(units)
+    print(f'Select between: {units}')
 
     unit = str(input('Unit: '))
 
